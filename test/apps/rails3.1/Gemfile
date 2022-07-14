@@ -21,7 +21,7 @@ group :assets do
   gem 'uglifier'
 end
 
-gem 'jquery-rails'
+gem 'jquery-rails', '>= 4.4.0'
 
 # Use unicorn as the web server
 # gem 'unicorn'
